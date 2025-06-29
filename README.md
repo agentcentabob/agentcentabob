@@ -1,4 +1,10 @@
-## Hi there 👋
+## what up
+
+i make things when i feel like it
+sometimes mr clark forces me :( to
+
+**currently** learning how to make a web application
+**don't** message me on github that's weird
 
 <!--
 **agentcentabob/agentcentabob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
