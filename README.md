@@ -1,9 +1,13 @@
 ## what up
 
 i make things when i feel like it
-sometimes mr clark forces me :( to
+
+sometimes mr clark forces me to :(
+
+~~
 
 **currently** learning how to make a web application
+
 **don't** message me on github that's weird
 
 <!--
