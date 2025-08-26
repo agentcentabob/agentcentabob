@@ -1,14 +1,12 @@
-## what up
+## jorteh's code corner
 
-i make things when i feel like it
+keep on keeping on 🤙
 
-sometimes mr clark forces me to :(
+---
 
-~~
-
-**currently** learning how to make a web application
-
-**don't** message me on github that's weird
+currently working on my web application for a school project!<br>
+learning html, css, python, js, sqlite3 as i go :)<br>
+follow the journey on my repo [here](https://github.com/agentcentabob/webapp25)
 
 <!--
 **agentcentabob/agentcentabob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
